@@ -1,1 +1,1 @@
-My old Laravel 8 App :)
+My old Laravel 8 App
